@@ -1,0 +1,28 @@
+Security Alerts
+
+01:55 AM
+Unknown USB network adapter detected.
+
+01:58 AM
+Suspicious DNS requests observed.
+
+02:02 AM
+Data transfer exceeded normal limits.
+
+02:04 AM
+External IP connected.
+
+02:06 AM
+Exam repository accessed.
+
+02:07 AM
+Faculty documents accessed.
+
+02:09 AM
+Student records database queried.
+
+02:11 AM
+Mass download activity detected.
+
+02:15 AM
+Connection terminated unexpectedly.

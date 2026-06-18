@@ -1,0 +1,173 @@
+[
+  {
+    "file": "network_Alerts.txt",
+    "sentence": "Security Alerts\n\n01:55 AM\nUnknown USB network adapter detected.",
+    "tokens": [
+      "security",
+      "alerts",
+      "01",
+      "55",
+      "am",
+      "unknown",
+      "usb",
+      "network",
+      "adapter",
+      "detected"
+    ]
+  },
+  {
+    "file": "network_Alerts.txt",
+    "sentence": "01:58 AM\nSuspicious DNS requests observed.",
+    "tokens": [
+      "01",
+      "58",
+      "am",
+      "suspicious",
+      "dns",
+      "requests",
+      "observed"
+    ]
+  },
+  {
+    "file": "network_Alerts.txt",
+    "sentence": "02:02 AM\nData transfer exceeded normal limits.",
+    "tokens": [
+      "02",
+      "02",
+      "am",
+      "data",
+      "transfer",
+      "exceeded",
+      "normal",
+      "limits"
+    ]
+  },
+  {
+    "file": "network_Alerts.txt",
+    "sentence": "02:04 AM\nExternal IP connected.",
+    "tokens": [
+      "02",
+      "04",
+      "am",
+      "external",
+      "ip",
+      "connected"
+    ]
+  },
+  {
+    "file": "network_Alerts.txt",
+    "sentence": "02:06 AM\nExam repository accessed.",
+    "tokens": [
+      "02",
+      "06",
+      "am",
+      "exam",
+      "repository",
+      "accessed"
+    ]
+  },
+  {
+    "file": "network_Alerts.txt",
+    "sentence": "02:07 AM\nFaculty documents accessed.",
+    "tokens": [
+      "02",
+      "07",
+      "am",
+      "faculty",
+      "documents",
+      "accessed"
+    ]
+  },
+  {
+    "file": "network_Alerts.txt",
+    "sentence": "02:09 AM\nStudent records database queried.",
+    "tokens": [
+      "02",
+      "09",
+      "am",
+      "student",
+      "records",
+      "database",
+      "queried"
+    ]
+  },
+  {
+    "file": "network_Alerts.txt",
+    "sentence": "02:11 AM\nMass download activity detected.",
+    "tokens": [
+      "02",
+      "11",
+      "am",
+      "mass",
+      "download",
+      "activity",
+      "detected"
+    ]
+  },
+  {
+    "file": "network_Alerts.txt",
+    "sentence": "02:15 AM\nConnection terminated unexpectedly.",
+    "tokens": [
+      "02",
+      "15",
+      "am",
+      "connection",
+      "terminated",
+      "unexpectedly"
+    ]
+  },
+  {
+    "file": "student_chat.txt",
+    "sentence": "Group Chat Extract\n\nArun:\nExam week is killing me.",
+    "tokens": [
+      "group",
+      "chat",
+      "extract",
+      "arun",
+      "exam",
+      "week",
+      "is",
+      "killing",
+      "me"
+    ]
+  },
+  {
+    "file": "student_chat.txt",
+    "sentence": "Arun:\nWish someone leaked the paper.",
+    "tokens": [
+      "arun",
+      "wish",
+      "someone",
+      "leaked",
+      "the",
+      "paper"
+    ]
+  },
+  {
+    "file": "student_chat.txt",
+    "sentence": "Rahul:\nI finally figured out how the college network works.",
+    "tokens": [
+      "rahul",
+      "finally",
+      "figured",
+      "out",
+      "how",
+      "the",
+      "college",
+      "network",
+      "works"
+    ]
+  },
+  {
+    "file": "student_chat.txt",
+    "sentence": "Arun:\nThat's what you always say.",
+    "tokens": [
+      "arun",
+      "that's",
+      "what",
+      "you",
+      "always",
+      "say"
+    ]
+  }
+]
